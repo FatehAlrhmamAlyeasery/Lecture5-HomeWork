@@ -1,0 +1,12 @@
+D:\visual studio 2015\C#_Applications_Forms\Lect4\Lect4\bin\Debug\Lect4.exe.config
+D:\visual studio 2015\C#_Applications_Forms\Lect4\Lect4\obj\Debug\Lect4.csprojResolveAssemblyReference.cache
+D:\visual studio 2015\C#_Applications_Forms\Lect4\Lect4\obj\Debug\Lect4.Form1.resources
+D:\visual studio 2015\C#_Applications_Forms\Lect4\Lect4\obj\Debug\Lect4.Properties.Resources.resources
+D:\visual studio 2015\C#_Applications_Forms\Lect4\Lect4\obj\Debug\Lect4.csproj.GenerateResource.Cache
+D:\visual studio 2015\C#_Applications_Forms\Lect4\Lect4\bin\Debug\Lect4.exe
+D:\visual studio 2015\C#_Applications_Forms\Lect4\Lect4\bin\Debug\Lect4.pdb
+D:\visual studio 2015\C#_Applications_Forms\Lect4\Lect4\obj\Debug\Lect4.exe
+D:\visual studio 2015\C#_Applications_Forms\Lect4\Lect4\obj\Debug\Lect4.pdb
+D:\visual studio 2015\C#_Applications_Forms\lect5_fath_motaher_abdoh_saleh1\Lect4\bin\Debug\Lect4.exe.config
+D:\visual studio 2015\C#_Applications_Forms\lect5_fath_motaher_abdoh_saleh1\Lect4\obj\Debug\Lect4.exe
+D:\visual studio 2015\C#_Applications_Forms\lect5_fath_motaher_abdoh_saleh1\Lect4\obj\Debug\Lect4.pdb
